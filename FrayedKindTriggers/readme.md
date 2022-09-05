@@ -1,0 +1,1 @@
+Java algorithm designed to calculate maximum solar panel installation.
